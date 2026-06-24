@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S%20LATHIKA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI+%26+Python+Developer+%7C+Building+Intelligent+Systems+That+Matter&descAlignY=62&descSize=16)](https://github.com/SLathika)
+
 
 <!-- TYPING HEADER -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Lathika+%F0%9F%91%8B;Python+Developer+%7C+ML+Engineer+%7C+AI+Enthusiast;Building+Fraud+Detection+%26+LLM+Systems+%F0%9F%A4%96;Flask+%7C+Scikit-learn+%7C+REST+APIs+%7C+SQLite;Open+to+Opportunities+%E2%9C%A8)](https://github.com/SLathika)
